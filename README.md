@@ -6,7 +6,7 @@ To enable this for your repo, install [pre-commit](https://pre-commit.com/#insta
 
 ```yaml
 repos:
-- repo: git://github.com/matthorgan/pre-commit-conventional-commits
+- repo: git://github.com/matthew-on-git/pre-commit-conventional-commits
   rev: master
   hooks:
     -
